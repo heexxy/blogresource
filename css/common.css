@@ -1,0 +1,144 @@
+@charset "utf-8";
+
+* {
+	font-size: 12px;
+	font-family: "微软雅黑";
+}
+
+a {
+	cursor: poniter;
+}
+
+h1 {
+	font-size: 2em;
+}
+
+h2 {
+	font-size: 1.5em;
+}
+
+h3 {
+	font-size: 1.33em;
+}
+
+.center {
+	text-align: center;
+}
+
+.clear {
+	clear: both;
+}
+
+.body {
+	margin: 0 auto;
+	width: 1000px;
+	overflow: hidden;
+}
+
+.body-div {
+	margin-top: 65px;
+}
+
+.head {
+	height: 53px;
+	width: 100%;
+	margin: 0 auto;
+	left: 0;
+	top: 0;
+	position: fixed;
+	z-index: 9999;
+	box-shadow: 0 0 5px #888;
+	background-color: #fff;
+}
+
+.footer {
+	width: 1000px;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.footer p {
+	font-size: 12px;
+	text-align: center;
+}
+
+.div-10 {
+	height: 10px;
+	width: 100%;
+}
+
+.div-20 {
+	height: 20px;
+	width: 100%;
+}
+
+.div-30 {
+	height: 30px;
+	width: 100%;
+}
+
+.div-40 {
+	height: 40px;
+	width: 100%;
+}
+
+.div-50 {
+	height: 50px;
+	width: 100%;
+}
+
+.div-left {
+	float: left;
+}
+
+.hide {
+	display: none;
+}
+
+.show {
+	display: "";
+}
+
+.theme-color {
+	color: #16a085;
+}
+
+.bg-grey {
+	background-color: #eee;
+}
+
+.bg-green {
+	background-color: #1abc9c;
+}
+
+.bg-blue {
+	background-color: #337ab7;
+}
+
+.bg-red {
+	background-color: #e74c3c;
+}
+
+.red{
+	color:#e74c3c;
+}
+
+.green{
+	color:#1abc9c;
+}
+
+.article-label {
+	display: inline;
+	padding: .2em .6em .3em;
+	font-weight: bold;
+	line-height: 1;
+	color: #777;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: .25em;
+}
+
+blockquote p span {
+	font-size: 12px;
+}

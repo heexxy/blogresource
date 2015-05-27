@@ -1,0 +1,80 @@
+.person-body {
+	width: 1400px;
+	margin: 0 auto;
+	height: 100%
+}
+
+.person-div {
+	width: 1400px;
+	margin: 0 auto;
+}
+
+.person-left-div {
+	position: fixed;
+	width: 200px;
+	height: 100%;
+	background-color: #337ab7;
+	float: left;
+	width: 200px;
+}
+
+.person-left-div span {
+	display: block;
+	text-align: center;
+	height: 100px;
+	line-height: 100px;
+	width: 100%;
+}
+
+.person-left-div span a {
+	font-size: 26px;
+	font-family: 幼圆;
+	color: #fff;
+}
+
+.person-left-div .person-left-a {
+	display: block;
+	width: 100%;
+	height: 60px;
+	line-height: 60px;
+	font-size: 20px;
+	font-family: 幼圆;
+	color: #fff;
+	text-align: center;
+	cursor: pointer;
+}
+
+.person-left-a:hover {
+	background-color: #286090;
+}
+
+.person-right-div {
+	width: 100%;
+	height: auto !important;
+	min-height: 100%;
+	float: left;
+	background-color: #FCFCFC;
+	padding: 10px 20px 10px 220px;
+	overflow: auto;
+}
+
+.person-index-head-div {
+	width: 95%;
+	margin: 0 auto;
+	border-radius: 25px;
+	height: 200px;
+	background: #F4F4F4;
+}
+
+.person-index-photo {
+	height: 160px;
+	width: 80px;
+	padding: 20px 0 20px 30px;
+	border-radius: 25px;
+}
+
+.person-index-photo img {
+	border-radius: 15px;
+	-webkit-border-radius: 15px;
+	-moz-border-radius: 15px;
+}

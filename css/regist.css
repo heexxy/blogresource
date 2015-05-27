@@ -1,0 +1,57 @@
+.regist-body {
+	background: #f9f9f9;
+	text-align: center;
+}
+
+.regist-div {
+	width: 90%;
+	margin: 0 auto;
+	padding: 10px 0 10px 0;
+	text-align: left;
+	height:95px;
+}
+
+.regist-input {
+	width: 100%;
+	height: 45px;
+}
+
+.regist-button {
+	width: 200px;
+	margin: 0 auto;
+	height: 45px;
+}
+
+.regist-head {
+	height: 100px;
+	width: 100%;
+	border-bottom: 1px solid #C7C4C4;
+}
+
+.regist-head-span {
+	display: block;
+	font-size: 16px;
+	font-family: 微软雅黑;
+}
+
+.regist-form-div {
+	width: 400px;
+	height: 500px;
+	border: 1px solid #C7C4C4;
+	background: #fff;
+	margin: 20px auto;
+}
+
+.regist-img {
+	margin: 0 auto;
+	width: 80px;
+	height: 100%
+}
+
+.login-form-div{
+	width: 400px;
+	height: 320px;
+	border: 1px solid #C7C4C4;
+	background: #fff;
+	margin: 20px auto;
+}
